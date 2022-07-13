@@ -9,7 +9,7 @@ Build !
 
 ## Screenshot
 <b align=center>
-<img src="https://github.com/Pop-Apple/Various-Types-Progressbar/blob/main/Images/Simple-Progressbar.png">
+<img src="https://github.com/Pop-Apple/Various-Types-Progress/blob/main/Images/Simple-Progressbar.png">
 </b>
 
 ## License and Badges
