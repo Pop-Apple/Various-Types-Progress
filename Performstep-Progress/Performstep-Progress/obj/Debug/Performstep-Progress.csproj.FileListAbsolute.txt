@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\bin\Debug\Performstep-Progress.exe.config
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\bin\Debug\Performstep-Progress.exe
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\bin\Debug\Performstep-Progress.pdb
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep_Progress.Form1.resources
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep_Progress.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.exe
+C:\Users\Apple_kun\Desktop\Performstep-Progress\Performstep-Progress\obj\Debug\Performstep-Progress.pdb
