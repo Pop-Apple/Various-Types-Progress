@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\bin\Debug\AppendText-Progress.exe.config
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\bin\Debug\AppendText-Progress.exe
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\bin\Debug\AppendText-Progress.pdb
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText_Progress.Form1.resources
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText_Progress.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.exe
+C:\Users\Apple_kun\Desktop\AppendText-Progress\AppendText-Progress\obj\Debug\AppendText-Progress.pdb
